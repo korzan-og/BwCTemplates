@@ -16,7 +16,7 @@ This repository includes the templates that will be used in the github repos for
     - Well-branded and complete Readme
 
 README might include Confluent branding with Partner Logo and name, title, subtitle, short description, and detailed HOWTO. README should also link to other relevant Confluent/Partner resources, such as documentation, blogs, online talks, other repositories, and so on. 
-Readme should include the purpose of the solution, describing how to use the repository, requirements, reference architecture, steps to run the demo and relevant links and people to contact for more information. Readme template could be found here
+Readme should include the purpose of the solution, describing how to use the repository, requirements, reference architecture, steps to run the demo and relevant links and people to contact for more information. Readme template could be found [here](README.template)
 
 
 **Simple / “1-click” setup**
