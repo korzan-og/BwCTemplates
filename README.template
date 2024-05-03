@@ -1,22 +1,46 @@
 ## README Template
 
+## [Organization name] Build with Confluent [Solution Name]
+
+
+<div align="center" padding=25px>
+    <Partner Logo>
+</div>
 <div align="center" padding=25px>
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
 <br>
 
-## **Agenda**
-1. [Log into Confluent Cloud]
-2. [Create an Environment and Cluster]
-3. [Create Flink Compute Pool]
-4. [Create Topics and walk through Confluent Cloud Dashboard]
-5. [Create an API Key Pair]
-6. [Clean Up Resources](#step-15)
+## ** Problem Definition ** 
+<Brief description of the problem the solution solves>
+
+## ** Executive Summary **
+<Business value proposition of the collateral, This should be in one sentence, one paragraph, and long form if necessary. This is where we can tie the content of the demo to the message being delivered. >
+
+## ** Basic Diagram **
+< Architecture link/image >
+
+## ** Requirements ** 
+< Requirements to run the demo (Confluent Cloud account, 3rd party solution account, Cloud (AWS, Azure, GCP) Account etc ) >
+
+## ** How to use the demo **
+< Detailed written description of the asset, including introduction, step-by-step, and summary.  >
+
+1. [Log into Confluent Cloud](#step-1)
+2. [Create an Environment and Cluster](#step-2)
+3. [Create Flink Compute Pool](#step-3)
+4. [Create Topics and walk through Confluent Cloud Dashboard](#step-4)
+5. [Create an API Key Pair](#step-4)
+6. 
+7. 
+8. 
+x. [Clean Up Resources](#step-x)
 
 ***
 
 ## **Prerequisites**
+< If creating an account is a prereq this part could be used > 
 <br>
 
 1. Create a Confluent Cloud Account.
@@ -185,7 +209,7 @@ When it is asked to upgrade for more advanced Stream Governance capabilities, cl
 
 ***
 
-## <a name="step-6"></a>Clean Up Resources
+## <a name="step-x"></a>Clean Up Resources
 
 Deleting the resources you created during this demo will prevent you from incurring additional charges. 
 
@@ -202,3 +226,6 @@ Deleting the resources you created during this demo will prevent you from incurr
 </div>
 
 *** 
+
+## Relevant Links 
+< Share relevant links here including the solutions page on Confluent BwC page and Partner website >
