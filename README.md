@@ -1,6 +1,8 @@
 ## Suggested Github Repository Template
 
-This repository includes the templates that will be used in the github repos for Build with Confluent. Please clone the repo and copy the related template into your own repository. This page also includes the basics a github repo should have.
+This repository includes the templates that will be used in the github repos for Build with Confluent. This page also includes the basics a github repo should have.
+
+Please clone the repo and copy the related template and images folder into your own repository. 
 
 **Must haves of Github repos**
 1. Github repositories should be under the partner's organization name to keep continuity, corporate credibility and long-term maintainability for the partners work.
@@ -16,7 +18,7 @@ This repository includes the templates that will be used in the github repos for
     - Well-branded and complete Readme
 
 README might include Confluent branding with Partner Logo and name, title, subtitle, short description, and detailed HOWTO. README should also link to other relevant Confluent/Partner resources, such as documentation, blogs, online talks, other repositories, and so on. 
-Readme should include the purpose of the solution, describing how to use the repository, requirements, reference architecture, steps to run the demo and relevant links and people to contact for more information. Readme template could be found [here](README.template)
+Readme should include the purpose of the solution, describing how to use the repository, requirements, reference architecture, steps to run the demo and relevant links and people to contact for more information. A template for the Readme could be found [here](README.template)
 
 
 **Simple / “1-click” setup**
